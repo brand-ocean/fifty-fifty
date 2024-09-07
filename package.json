@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/gsap": "^3.0.0",
+    "rimraf": "^6.0.1",
+    "typescript": "^5.0.2",
+    "vite": "^5.4.3"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
+    "circletype": "^2.3.0",
+    "gsap": "^3.12.2",
+    "split-type": "^0.3.4",
+    "swiper": "^11.1.12"
+  }
+}
